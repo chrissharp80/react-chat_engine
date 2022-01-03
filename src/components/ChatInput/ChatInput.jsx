@@ -1,5 +1,5 @@
 import { useChat } from 'context';
-import { useEffect, useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { Icon } from 'semantic-ui-react';
 import { sendMessage } from 'react-chat-engine';
 import { ImageUpload } from 'components';
